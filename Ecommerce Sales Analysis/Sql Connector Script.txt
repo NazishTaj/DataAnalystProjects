@@ -71,12 +71,6 @@ for csv_file, table_name in csv_files:
 
 # Close the connection
 conn.close()
-Processing sellers.csv
-NaN values before replacement:
-seller_id                 0
-seller_zip_code_prefix    0
-seller_city               0
-seller_state              0
-dtype: int64
+
 
  
